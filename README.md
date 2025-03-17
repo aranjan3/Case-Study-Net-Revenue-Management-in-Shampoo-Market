@@ -6,7 +6,7 @@ HealthMax, a leading player in the shampoo industry, has hired me as a data anal
 
 Case_Study.pdf – Detailed explanation of the dataset with Dataset Link, problem statement, and key findings.
 
-This is Revenue Dataset Link [Link](https://docs.google.com/spreadsheets/d/1dBxEBLh11arVneakAXcrcLFeEDJ-FO1svFs0sy1HKFo/edit?usp=sharing)
+This is Revenue Dataset [Link](https://docs.google.com/spreadsheets/d/1dBxEBLh11arVneakAXcrcLFeEDJ-FO1svFs0sy1HKFo/edit?usp=sharing)
 
 📂 Google Sheet Reference
 
